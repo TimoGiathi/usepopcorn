@@ -78,7 +78,7 @@ export default function App() {
       }
     }
     fetchMovies();
-  });
+  }, []);
   return (
     <>
       <NavBar>
@@ -90,7 +90,7 @@ export default function App() {
           {/* {isLoading ? <Loader /> : <MovieList movies={movies} />} */}
           {!isLoading && !error && <MovieList movies={movies} />}
           {error && <Error message={error} />}
-          {isLoading && !error && <Loader />}
+          {isLoading && <Loader />}
         </Box>
 
         <Box>

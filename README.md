@@ -1,6 +1,6 @@
 # usepopcorn (Frontend)
 
-![usepopcorn Landing Page](/src/landing%20page.PNG)
+![usepopcorn Landing Page](src/usepopcorn%20landing%20page.PNG)
 
 ## A functional frontend website for viewing the stats of the movies you like
 
@@ -12,7 +12,7 @@ This project is completely built by React and CSS and fetches data from the OMDb
 
 ## How to install this demo to your local pc
 
-1.  Clone this repository in this format - `[git clone])`
+1.  Clone this repository in this format - `[git clone](https://github.com/TimoGiathi/usepopcorn.git)`
 2.  Open the folder using your IDE and go live and that should be it!
 
 ## How to use this project for your own use
