@@ -9,6 +9,8 @@ This project is completely built by React and CSS and fetches data from the OMDb
 - Search input to search for movie titles
 - A movie tracker to count the movie results found
 - Watch summary with information such as imdb rating,average runtime and average user rating
+- Movie details for each movie clicked
+- Rating component to add it to your watched movies
 
 ## How to install this demo to your local pc
 
