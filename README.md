@@ -19,7 +19,12 @@ This project is completely built by React and CSS and fetches data from the OMDb
 
 ## How to use this project for your own use
 
-Since this is a learning project, I'd encourage you to clone and rename the project and use it as you wish. It can be an awesome boilerplate for your upcoming project or as a learning tool for React concepts such as state management and data fetching.
+Since this is a learning project, I'd encourage you to clone and rename the project and use it as you wish. It can be an awesome boilerplate for your upcoming project or as a learning tool for React concepts such as :
+
+1. State management.
+2. Data fetching
+3. Error handling
+4. Handling events
 
 ## Have any ideas to improve usepopcorn?
 
