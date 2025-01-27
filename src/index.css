@@ -346,4 +346,31 @@ SPACING SYSTEM (px)
 FONT SIZE SYSTEM (px)
 10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 /52 / 62 / 74 / 86 / 98
 */
+@media screen and (max-width: 480px) {
+  .nav-bar {
+    /*   width: fit-content;
+    max-width: 100%;
+    gap: 20px; */
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    gap: 5px;
+    padding: 5px 10px;
+    max-width: 42rem;
+  }
 
+  .main {
+    margin-top: 2.4rem;
+    height: calc(100vh - 7.2rem - 3 * 2.4rem);
+    display: flex;
+    flex-direction: column;
+    gap: 2.4rem;
+    justify-content: center;
+  }
+
+  .box {
+    height: 42rem;
+    max-width: 42rem;
+    width: 100%;
+  }
+}
