@@ -25,6 +25,7 @@ Since this is a learning project, I'd encourage you to clone and rename the proj
 2. Data fetching
 3. Error handling
 4. Handling events
+5. Working with the browser local storage
 
 ## Have any ideas to improve usepopcorn?
 
