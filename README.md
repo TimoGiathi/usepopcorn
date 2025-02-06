@@ -26,6 +26,7 @@ Since this is a learning project, I'd encourage you to clone and rename the proj
 3. Error handling
 4. Handling events
 5. Working with the browser local storage
+6. Creating and working with custom hooks
 
 ## Have any ideas to improve usepopcorn?
 
